@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,KACI,QAAS,CACT,4BAA8B,CAC9B,wBACF","file":"main.9c5bf99b.chunk.css","sourcesContent":["/* src/index.css */\r\nbody {\r\n    margin: 0;\r\n    font-family: Arial, sans-serif;\r\n    background-color: #f0f0f0;\r\n  }\r\n  "]}
